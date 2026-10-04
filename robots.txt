@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://kinstudios.org
+Sitemap: https://kinstudios.org/sitemap.xml
